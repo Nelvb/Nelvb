@@ -1,4 +1,4 @@
-# 👋 ¡Hola, soy Nelon Valero Barcelona!
+# 👋 ¡Hola, soy Nelson Valero Barcelona!
 
 ### 💻 Desarrollador Full Stack
 Enfocado en el desarrollo de aplicaciones web utilizando tecnologías modernas, con conocimientos en Frontend y Backend. Apasionado por crear soluciones eficientes y escalables, y siempre en búsqueda de mejorar mis habilidades en desarrollo de software.
