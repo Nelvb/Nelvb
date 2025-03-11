@@ -44,7 +44,7 @@ Enfocado en el desarrollo de aplicaciones web utilizando tecnologías modernas, 
 - **[The Roas Factory](https://the-roas-factory.vercel.app/)** ([GitHub](https://github.com/Nelvb/TheRoasFactory))  
   Web de agencia de marketing digital con React.js, HTML5, CSS3, y Bootstrap. Incluye una estructura optimizada para artículos y blog, y está preparada para integrar bases de datos.
 
-- **[Portafolio Personal de Nelson Valero](https://github.com/Nelvb/Portfolio)**  
+- **[Portafolio Personal de Nelson Valero](https://github.com/4GeeksAcademy/Nelvb-portfolio)**  
   Portfolio personal interactivo desarrollado con React.js, Flask, y Anime.js. Incluye validación de emails mediante la API Hunter.io y diseño responsive.
 
 - **[Hoy No Cocino](https://github.com/Nelvb/Proyecto-Hoy-No-Cocino)**  
