@@ -195,15 +195,17 @@ Mi enfoque de aprendizaje se centra en dos pilares fundamentales:
 ## 🤝 ¡Colaboraciones Bienvenidas!
 
 <div align="center">
-  <p>Si tienes alguna idea o proyecto interesante, no dudes en contactarme. ¡Me encantaría colaborar y aprender junto a otros apasionados de la tecnología!</p>
+  <p>Estoy abierto a colaborar en proyectos innovadores y desafiantes. Si buscas un desarrollador comprometido con la calidad y la excelencia técnica para tu equipo o proyecto, no dudes en contactarme.</p>
   
-  <a href="mailto:nelvb@gmail.com">
-    <img src="https://img.shields.io/badge/-Contáctame-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:nelsonvbarcelona@gmail.com">
+    <picture>
+      <img src="https://img.shields.io/badge/-Contactar_por_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </picture>
   </a>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nelvb&color=blue&style=flat-square&label=Visitas+al+perfil" alt="Profile views" />
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/nelvb">
+    <picture>
+      <img src="https://img.shields.io/badge/-Conectar_en_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </picture>
+  </a>
 </div>
