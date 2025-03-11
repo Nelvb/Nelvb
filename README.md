@@ -1,16 +1,40 @@
 # 👋 ¡Hola, soy Nelson Valero Barcelona!
+![Tablero_full_stack](https://github.com/user-attachments/assets/2a7d3c27-fa02-4d37-89df-709c0e472d48)
 
 ### 💻 Desarrollador Full Stack
 Enfocado en el desarrollo de aplicaciones web utilizando tecnologías modernas, con conocimientos en Frontend y Backend. Apasionado por crear soluciones eficientes y escalables, y siempre en búsqueda de mejorar mis habilidades en desarrollo de software.
 
-### 🛠️ Tecnologías
-- **Lenguajes de Programación:** Python yJavaScript
-- **Lenguajes de Consulta y Manipulación de Datos:** SQL
-- **Lenguajes de Marcado y Estilo:** HTML5 y CSS3
-- **Frontend:** React.js
-- **Backend:** Flask
-- **Bases de Datos:** PostgreSQL, SQLAlchemy
-- **Herramientas y APIs:** JWT (JSON Web Tokens), Flask-Mail, Cloudinary (gestión de imágenes)
+## 🛠️ Tecnologías Principales
+
+### Lenguajes
+- Python
+- JavaScript / TypeScript
+- SQL
+
+### Marcado y Estilos
+- HTML5
+- CSS3
+- Tailwind CSS
+- Bootstrap
+
+### Frontend
+- Next.js
+- Zustand
+
+### Backend
+- Flask
+- SQLAlchemy
+- Alembic
+- JWT (JSON Web Tokens)
+- Flask-Mail
+
+### Bases de Datos
+- PostgreSQL
+
+### Infraestructura
+- Docker
+- Docker Compose
+
 
 ### 🚀 Proyectos Destacados
 - **[Hoy No Cocino](https://github.com/Nelvb/Proyecto-Hoy-No-Cocino)** - Plataforma de reservas de restaurantes que incluye gestión de usuarios y de restaurantes, autenticación JWT, y carga de imágenes en la nube con Cloudinary.
