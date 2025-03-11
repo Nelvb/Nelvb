@@ -32,9 +32,6 @@
 <div align="center">
   <p>Enfocado en el desarrollo de aplicaciones web utilizando tecnologías modernas, con conocimientos en Frontend y Backend. Apasionado por crear soluciones eficientes y escalables, y siempre en búsqueda de mejorar mis habilidades en desarrollo de software.</p>
   
-  <p><i>Actualmente desarrollando proyectos para empresas en tres nuevas plataformas, utilizando como base mi Starter Template personalizado.</i></p>
-</div>
-
 <br>
 
 ## 🛠️ Tecnologías Principales
@@ -98,7 +95,6 @@
 
 <details>
   <summary style="cursor: pointer; font-weight: bold; font-size: 1.1em;">🔍 Ver más tecnologías...</summary>
-  <br>
   
   ### Frontend
   &nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/-Zustand-3d3d3d?style=for-the-badge&logo=redux&logoColor=white" alt="Zustand"/>
@@ -113,7 +109,6 @@
 <br>
 
 ## 🚀 Proyectos Destacados
-
 <div align="center">
   <table>
     <tr>
@@ -179,12 +174,13 @@
 
 ## 🌱 Actualmente aprendiendo...
 
-<div align="center">
-  <p><b>Mejores prácticas de desarrollo</b> y <b>nuevas tecnologías emergentes</b> para seguir creciendo en mi carrera como desarrollador.</p>
-  <img src="https://img.shields.io/badge/-Arquitectura_Limpia-3498DB?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CI/CD-2ECC71?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Testing_Avanzado-9B59B6?style=for-the-badge&logoColor=white" />
-</div>
+Mi enfoque de aprendizaje se centra en dos pilares fundamentales:
+
+* **Consolidación de conocimientos**: Profundizando en arquitecturas robustas, patrones de diseño y buenas prácticas que garanticen código mantenible y escalable.
+
+* **Exploración tecnológica**: Investigando nuevas herramientas y frameworks que puedan complementar mi stack actual y ofrecer mejores soluciones a mis clientes.
+
+Actualmente aplico estos conocimientos en varios proyectos para empresas, utilizando mi Starter Template como base para garantizar implementaciones consistentes y de alta calidad.
 
 <br>
 
