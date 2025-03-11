@@ -47,7 +47,7 @@ Enfocado en el desarrollo de aplicaciones web utilizando tecnologías modernas, 
 - **[Portafolio Personal de Nelson Valero](https://github.com/4GeeksAcademy/Nelvb-portfolio)**  
   Portfolio personal interactivo desarrollado con React.js, Flask, y Anime.js. Incluye validación de emails mediante la API Hunter.io y diseño responsive.
 
-- **[Hoy No Cocino](https://github.com/Nelvb/Proyecto-Hoy-No-Cocino)**  
+- **[Hoy No Cocino](https://github.com/4GeeksAcademy/Proyecto_Final_NJD)**  
   Plataforma web de reservas para restaurantes, con autenticación JWT, Flask (backend), React.js (frontend) y almacenamiento de imágenes con Cloudinary.
 
 
