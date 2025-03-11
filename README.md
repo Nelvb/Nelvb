@@ -38,7 +38,7 @@ Enfocado en el desarrollo de aplicaciones web utilizando tecnologías modernas, 
 
 ### 🚀 Proyectos Destacados
 
-- **[Starter Template](https://github.com/Nelvb/starter-template)**  
+- **[Starter Template](https://github.com/Nelvb/Starter_template)**  
   Template completo y reutilizable para proyectos Full Stack con Next.js (TypeScript), Flask, PostgreSQL, autenticación JWT y Docker.
 
 - **[The Roas Factory](https://the-roas-factory.vercel.app/)** ([GitHub](https://github.com/Nelvb/TheRoasFactory))  
