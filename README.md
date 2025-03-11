@@ -94,19 +94,20 @@
   </tr>
 </table>
 
+<br>
 
 <details>
-  <summary>Ver más tecnologías...</summary>
+  <summary style="cursor: pointer; font-weight: bold; font-size: 1.1em;">🔍 Ver más tecnologías...</summary>
   <br>
   
   ### Frontend
-  - Zustand
+  &nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/-Zustand-3d3d3d?style=for-the-badge&logo=redux&logoColor=white" alt="Zustand"/>
   
   ### Backend
-  - SQLAlchemy
-  - Alembic
-  - JWT (JSON Web Tokens)
-  - Flask-Mail
+  &nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/-SQLAlchemy-FCA121?style=for-the-badge&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-Alembic-2E8B57?style=for-the-badge&logo=alembic&logoColor=white" alt="Alembic"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" alt="JWT"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-Flask--Mail-B22222?style=for-the-badge&logo=gmail&logoColor=white" alt="Flask-Mail"/>
 </details>
 
 <br>
