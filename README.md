@@ -172,6 +172,16 @@
 
 <br>
 
+## 💼 Proyectos Empresariales en Desarrollo
+
+- **Plataforma de Inversión Inmobiliaria**: Sistema web completo para análisis, gestión y seguimiento de inversiones en el sector inmobiliario. Incorpora herramientas de análisis financiero y visualización de datos para toma de decisiones.
+
+- **Portal Corporativo para Asesoría Legal**: Plataforma empresarial con gestión de servicios legales, sistema de blogs para noticias del sector, perfiles de asesores especializados y gestión integral de clientes.
+
+- **"Te Vendo Tu Coche"**: Innovadora plataforma que permite a los propietarios vender sus vehículos sin preocupaciones. El propietario mantiene el uso del vehículo hasta que se completa la venta, ofreciendo una solución única en el mercado.
+
+<br>
+
 ## 🌱 Actualmente aprendiendo...
 
 Mi enfoque de aprendizaje se centra en dos pilares fundamentales:
@@ -179,8 +189,6 @@ Mi enfoque de aprendizaje se centra en dos pilares fundamentales:
 * **Consolidación de conocimientos**: Profundizando en arquitecturas robustas, patrones de diseño y buenas prácticas que garanticen código mantenible y escalable.
 
 * **Exploración tecnológica**: Investigando nuevas herramientas y frameworks que puedan complementar mi stack actual y ofrecer mejores soluciones a mis clientes.
-
-Actualmente aplico estos conocimientos en varios proyectos para empresas, utilizando mi Starter Template como base para garantizar implementaciones consistentes y de alta calidad.
 
 <br>
 
