@@ -1,12 +1,31 @@
 # <div align="center">👋 ¡Hola, soy Nelson Valero Barcelona!</div>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/2a7d3c27-fa02-4d37-89df-709c0e472d48" alt="Tablero_full_stack" width="100%">
+</div>
+
+<br>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/2a7d3c27-fa02-4d37-89df-709c0e472d48" alt="Tablero_full_stack" width="850px">
-
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nelvb)
-  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nelvb)
-  [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nelvb@gmail.com)
+  <a href="https://linkedin.com/in/nelvb">
+    <picture>
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30" height="30" alt="LinkedIn" />
+    </picture>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Nelvb">
+    <picture>
+      <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" width="30" height="30" alt="GitHub" />
+    </picture>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:nelsonvbarcelona@gmail.com">
+    <picture>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="30" height="30" alt="Email" />
+    </picture>
+  </a>
 </div>
+
+<br>
 
 ## <div align="center">💻 Desarrollador Full Stack</div>
 
@@ -100,12 +119,11 @@
       <td width="50%" valign="top">
         <div style="border-radius: 8px; overflow: hidden; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
           <a href="https://github.com/Nelvb/Starter_template">
-            <img src="https://res.cloudinary.com/dy1pkrd52/image/upload/v1741705520/Starter_Template_gsjkbr.png" width="100%" height="200" style="object-fit: cover;" alt="Starter Template">
+            <img src="https://res.cloudinary.com/dy1pkrd52/image/upload/v1741715749/Starter_Template_zap4qz.png">
           </a>
-          <div style="padding: 16px; background-color: #f8f9fa; height: 150px;">
+          <div style="padding: 16px; background-color: #f8f9fa;">
             <h3 align="center">
-              <img src="https://img.icons8.com/color/28/000000/code.png" style="vertical-align: middle;"/> 
-              Starter Template
+              <a href="https://github.com/Nelvb/Starter_template">Starter Template</a>
             </h3>
             <p align="center">Template completo y reutilizable para proyectos Full Stack con Next.js (TypeScript), Flask, PostgreSQL, autenticación JWT y Docker.</p>
           </div>
@@ -114,12 +132,11 @@
       <td width="50%" valign="top">
         <div style="border-radius: 8px; overflow: hidden; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
           <a href="https://the-roas-factory.vercel.app/">
-            <img src="https://res.cloudinary.com/dy1pkrd52/image/upload/v1741705556/The_Roas_Factory_chshxo.png" width="100%" height="200" style="object-fit: cover;" alt="The Roas Factory">
+            <img src="https://res.cloudinary.com/dy1pkrd52/image/upload/v1741705556/The_Roas_Factory_chshxo.png" width="100%" style="object-fit: contain;" alt="The Roas Factory">
           </a>
-          <div style="padding: 16px; background-color: #f8f9fa; height: 150px;">
+          <div style="padding: 16px; background-color: #f8f9fa;">
             <h3 align="center">
-              <img src="https://img.icons8.com/color/28/000000/commercial.png" style="vertical-align: middle;"/> 
-              The Roas Factory
+              <a href="https://the-roas-factory.vercel.app/">The Roas Factory</a>
             </h3>
             <p align="center">Web de agencia de marketing digital con React.js, HTML5, CSS3, y Bootstrap. Incluye una estructura optimizada para artículos y blog. <a href="https://github.com/Nelvb/TheRoasFactory">GitHub</a></p>
           </div>
@@ -130,12 +147,11 @@
       <td width="50%" valign="top">
         <div style="border-radius: 8px; overflow: hidden; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
           <a href="https://github.com/4GeeksAcademy/Nelvb-portfolio">
-            <img src="https://res.cloudinary.com/dy1pkrd52/image/upload/v1741705580/Portfolio_n2ib5p.png" width="100%" height="200" style="object-fit: cover;" alt="Portfolio">
+            <img src="https://res.cloudinary.com/dy1pkrd52/image/upload/v1741705580/Portfolio_n2ib5p.png" width="100%" style="object-fit: contain;" alt="Portfolio">
           </a>
-          <div style="padding: 16px; background-color: #f8f9fa; height: 150px;">
+          <div style="padding: 16px; background-color: #f8f9fa;">
             <h3 align="center">
-              <img src="https://img.icons8.com/color/28/000000/moleskine.png" style="vertical-align: middle;"/> 
-              Portafolio Personal
+              <a href="https://github.com/4GeeksAcademy/Nelvb-portfolio">Portafolio Personal</a>
             </h3>
             <p align="center">Portfolio personal interactivo desarrollado con React.js, Flask, y Anime.js. Incluye validación de emails mediante la API Hunter.io.</p>
           </div>
@@ -144,12 +160,11 @@
       <td width="50%" valign="top">
         <div style="border-radius: 8px; overflow: hidden; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
           <a href="https://github.com/4GeeksAcademy/Proyecto_Final_NJD">
-            <img src="https://res.cloudinary.com/dy1pkrd52/image/upload/v1741705601/Hoy_no_cocino_x6h7w4.png" width="100%" height="200" style="object-fit: cover;" alt="Hoy No Cocino">
+            <img src="https://res.cloudinary.com/dy1pkrd52/image/upload/v1741705601/Hoy_no_cocino_x6h7w4.png" width="100%" style="object-fit: contain;" alt="Hoy No Cocino">
           </a>
-          <div style="padding: 16px; background-color: #f8f9fa; height: 150px;">
+          <div style="padding: 16px; background-color: #f8f9fa;">
             <h3 align="center">
-              <img src="https://img.icons8.com/color/28/000000/restaurant.png" style="vertical-align: middle;"/> 
-              Hoy No Cocino
+              <a href="https://github.com/4GeeksAcademy/Proyecto_Final_NJD">Hoy No Cocino</a>
             </h3>
             <p align="center">Plataforma web de reservas para restaurantes, con autenticación JWT, Flask (backend), React.js (frontend) y almacenamiento de imágenes con Cloudinary.</p>
           </div>
