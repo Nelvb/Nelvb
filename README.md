@@ -136,10 +136,8 @@ Stack implementado con enfoque en rendimiento y escalabilidad.
             <img src="https://res.cloudinary.com/dy1pkrd52/image/upload/v1744624169/Pagina_principal_imagen_presentacion_l6e6th.webp" width="100%" alt="Boost A Project" />
           </a>
           <div style="padding: 16px; background-color: #f8f9fa;">
-            <h3 align="center">
-              Boost A Project
-            </h3>
-            <p align="center">Plataforma de inversión inmobiliaria con panel profesional, artículos enriquecidos, estado global con Zustand y despliegue full-stack en Fly.io.</p>
+            <h3 align="center">Boost A Project</h3>
+            <p align="center">Plataforma de inversión inmobiliaria con panel profesional, blog, estado global con Zustand y despliegue full-stack en Fly.io.</p>
             <p align="center"><a href="https://github.com/Nelvb/Boost-A-Project">GitHub</a></p>
           </div>
         </div>
@@ -150,10 +148,8 @@ Stack implementado con enfoque en rendimiento y escalabilidad.
             <img src="https://res.cloudinary.com/dy1pkrd52/image/upload/v1751544916/home-principal-hero_crlvaf.webp" width="100%" alt="LHC Legal & Consulting" />
           </a>
           <div style="padding: 16px; background-color: #f8f9fa;">
-            <h3 align="center">
-              <a href="https://lhc-frontend.fly.dev">LHC Legal & Consulting</a>
-            </h3>
-            <p align="center">Asesoría jurídica digital con sistema de gestión de artículos para administradores, subida de imágenes, editor propio sin dependencias externas y enfoque SEO técnico.</p>
+            <h3 align="center"><a href="https://lhc-frontend.fly.dev">LHC Legal & Consulting</a></h3>
+            <p align="center">Asesoría jurídica digital con sistema de gestión de artículos, imágenes, editor HTML propio y enfoque SEO técnico.</p>
             <p align="center"><a href="https://github.com/Nelvb/lhc-legal-consulting">GitHub</a></p>
           </div>
         </div>
@@ -166,10 +162,8 @@ Stack implementado con enfoque en rendimiento y escalabilidad.
             <img src="https://res.cloudinary.com/dy1pkrd52/image/upload/v1741715749/Starter_Template_zap4qz.png" width="100%" alt="Starter Template">
           </a>
           <div style="padding: 16px; background-color: #f8f9fa;">
-            <h3 align="center">
-              Starter Template
-            </h3>
-            <p align="center">Template completo y reutilizable para proyectos Full Stack con Next.js (TypeScript), Flask, PostgreSQL, autenticación JWT y Docker.</p>
+            <h3 align="center">Starter Template</h3>
+            <p align="center">Template profesional y reutilizable con Next.js, Flask, PostgreSQL, JWT y Docker. Ideal para bases sólidas full-stack.</p>
             <p align="center"><a href="https://github.com/Nelvb/Starter_template">GitHub</a></p>
           </div>
         </div>
@@ -180,10 +174,8 @@ Stack implementado con enfoque en rendimiento y escalabilidad.
             <img src="https://res.cloudinary.com/dy1pkrd52/image/upload/v1741705601/Hoy_no_cocino_x6h7w4.png" width="100%" alt="Hoy No Cocino">
           </a>
           <div style="padding: 16px; background-color: #f8f9fa;">
-            <h3 align="center">
-              <a href="https://hoynococino.es">Hoy No Cocino</a>
-            </h3>
-            <p align="center">Plataforma web de reservas para restaurantes, con autenticación JWT, Flask (backend), React.js (frontend) y almacenamiento de imágenes con Cloudinary.</p>
+            <h3 align="center"><a href="https://hoynococino.es">Hoy No Cocino</a></h3>
+            <p align="center">Plataforma de reservas para restaurantes. Backend en Flask, frontend en React.js y subida de imágenes con Cloudinary.</p>
             <p align="center"><a href="https://github.com/Nelvb/Proyecto-Hoy-No-Cocino">GitHub</a></p>
           </div>
         </div>
@@ -196,10 +188,9 @@ Stack implementado con enfoque en rendimiento y escalabilidad.
             <img src="https://res.cloudinary.com/dy1pkrd52/image/upload/v1741705556/The_Roas_Factory_chshxo.png" width="100%" alt="The Roas Factory">
           </a>
           <div style="padding: 16px; background-color: #f8f9fa;">
-            <h3 align="center">
-              <a href="https://the-roas-factory.vercel.app/">The Roas Factory</a>
-            </h3>
-            <p align="center">Web de agencia de marketing digital con React.js, HTML5, CSS3 y Bootstrap. Optimizada para SEO y artículos. <a href="https://github.com/Nelvb/TheRoasFactory">GitHub</a></p>
+            <h3 align="center"><a href="https://the-roas-factory.vercel.app/">The Roas Factory</a></h3>
+            <p align="center">Agencia de marketing digital con estructura para blog, React.js, Bootstrap y diseño responsive. Optimizada para SEO.</p>
+            <p align="center"><a href="https://github.com/Nelvb/TheRoasFactory">GitHub</a></p>
           </div>
         </div>
       </td>
@@ -209,16 +200,16 @@ Stack implementado con enfoque en rendimiento y escalabilidad.
             <img src="https://res.cloudinary.com/dy1pkrd52/image/upload/v1741705580/Portfolio_n2ib5p.png" width="100%" alt="Portfolio">
           </a>
           <div style="padding: 16px; background-color: #f8f9fa;">
-            <h3 align="center">
-              <a href="https://portfolio-nelvbs-projects.vercel.app/">Portfolio Personal</a>
-            </h3>
-            <p align="center">Portfolio personal interactivo desarrollado con React.js, Flask y Anime.js. Incluye validación de emails. <a href="https://github.com/4GeeksAcademy/Nelvb-portfolio">GitHub</a></p>
+            <h3 align="center"><a href="https://portfolio-nelvbs-projects.vercel.app/">Portfolio Personal</a></h3>
+            <p align="center">Portfolio interactivo con React.js, Flask, Anime.js y validación real de emails. Multilenguaje y 100% responsive.</p>
+            <p align="center"><a href="https://github.com/4GeeksAcademy/Nelvb-portfolio">GitHub</a></p>
           </div>
         </div>
       </td>
     </tr>
   </table>
 </div>
+
 
 
 ## 🌱 Actualmente aprendiendo...
