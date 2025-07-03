@@ -93,19 +93,36 @@
 
 <br>
 
-<details>
-  <summary style="cursor: pointer; font-weight: bold; font-size: 1.1em;">🔍 Ver más tecnologías...</summary>
-  
-  ### Frontend
-  &nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/-Zustand-3d3d3d?style=for-the-badge&logo=redux&logoColor=white" alt="Zustand"/>
-  
-  ### Backend
-  &nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/-SQLAlchemy-FCA121?style=for-the-badge&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy"/>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-Alembic-2E8B57?style=for-the-badge&logo=alembic&logoColor=white" alt="Alembic"/>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" alt="JWT"/>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-Flask--Mail-B22222?style=for-the-badge&logo=gmail&logoColor=white" alt="Flask-Mail"/>
-</details>
+## Más Herramientas
 
+### Frontend
+
+<img src="https://img.shields.io/badge/-Zustand-3d3d3d?style=for-the-badge&logo=redux&logoColor=white" alt="Zustand" />
+<img src="https://img.shields.io/badge/-React%20Testing%20Library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white" alt="React Testing Library" />
+<img src="https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
+<img src="https://img.shields.io/badge/-Anime.js-EC407A?style=for-the-badge&logoColor=white" alt="Anime.js" />
+<img src="https://img.shields.io/badge/-Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" alt="Cloudinary" />
+<img src="https://img.shields.io/badge/-SmartLink-7c3aed?style=for-the-badge&logoColor=white" alt="SmartLink" />
+<img src="https://img.shields.io/badge/-Editor%20HTML%20Propio-10B981?style=for-the-badge&logoColor=white" alt="Editor HTML personalizado" />
+
+### Backend
+
+<img src="https://img.shields.io/badge/-SQLAlchemy-FCA121?style=for-the-badge&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy" />
+<img src="https://img.shields.io/badge/-Alembic-2E8B57?style=for-the-badge&logo=alembic&logoColor=white" alt="Alembic" />
+<img src="https://img.shields.io/badge/-JWT%20%2B%20Cookies%20HttpOnly-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT + Cookies HttpOnly" />
+<img src="https://img.shields.io/badge/-Flask--Mail-B22222?style=for-the-badge&logo=gmail&logoColor=white" alt="Flask-Mail" />
+<img src="https://img.shields.io/badge/-Pydantic%20%7C%20Marshmallow-1F2937?style=for-the-badge&logoColor=white" alt="Schemas Pydantic/Marshmallow" />
+<img src="https://img.shields.io/badge/-Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="Pytest" />
+<img src="https://img.shields.io/badge/-Clean%20Architecture-6366F1?style=for-the-badge&logoColor=white" alt="Arquitectura Clean" />
+
+### DevOps y herramientas
+
+<img src="https://img.shields.io/badge/-Docker%20%7C%20Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/-Git%20%7C%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Git y GitHub" />
+<img src="https://img.shields.io/badge/-Fly.io-3B82F6?style=for-the-badge&logoColor=white" alt="Fly.io" />
+<img src="https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+<img src="https://img.shields.io/badge/-.env%20per%20entorno%20(dev%20%7C%20prod)-6B7280?style=for-the-badge&logoColor=white" alt=".env controlado" />
+<img src="https://img.shields.io/badge/-SEO%20t%C3%A9cnico%20avanzado-1DA1F2?style=for-the-badge&logo=google&logoColor=white" alt="SEO técnico" />
 <br>
 
 ## Stack tecnológico aplicado
