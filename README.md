@@ -108,33 +108,53 @@
 
 <br>
 
+## Stack tecnológico aplicado
+
+LHC Legal & Consulting en producción y Boost A Project completado técnicamente (pendiente de decisiones empresariales):
+
+**Gestión de estado avanzada** con Zustand para aplicaciones complejas sin Redux
+**Testing integral** usando React Testing Library y Jest con cobertura superior al 90%
+**Arquitectura backend modular** en Flask siguiendo principios de Clean Architecture
+**Editor de contenido personalizado** desarrollado sin dependencias externas
+**Gestión de imágenes profesional** con Cloudinary y validación robusta
+**Autenticación empresarial** con JWT, cookies HttpOnly y protección CSRF
+**Contenedores Docker optimizados** para desarrollo y producción
+**Sistema de emails escalable** con Flask-Mail preparado para SendGrid
+**SEO técnico desde la base** con metadatos dinámicos, schema.org y performance
+
+Stack implementado con enfoque en rendimiento y escalabilidad.
+
+<br>
+
 ## 🚀 Proyectos Destacados
 <div align="center">
   <table>
     <tr>
       <td width="50%" valign="top">
         <div style="border-radius: 8px; overflow: hidden; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-          <a href="https://github.com/Nelvb/Starter_template">
-            <img src="https://res.cloudinary.com/dy1pkrd52/image/upload/v1741715749/Starter_Template_zap4qz.png">
+          <a href="https://github.com/Nelvb/Boost-A-Project">
+            <img src="https://res.cloudinary.com/dy1pkrd52/image/upload/v1744624169/Pagina_principal_imagen_presentacion_l6e6th.webp" width="100%" alt="Boost A Project" />
           </a>
           <div style="padding: 16px; background-color: #f8f9fa;">
             <h3 align="center">
-              <a href="https://github.com/Nelvb/Starter_template">Starter Template</a>
+              Boost A Project
             </h3>
-            <p align="center">Template completo y reutilizable para proyectos Full Stack con Next.js (TypeScript), Flask, PostgreSQL, autenticación JWT y Docker.</p>
+            <p align="center">Plataforma de inversión inmobiliaria con panel profesional, artículos enriquecidos, estado global con Zustand y despliegue full-stack en Fly.io.</p>
+            <p align="center"><a href="https://github.com/Nelvb/Boost-A-Project">GitHub</a></p>
           </div>
         </div>
       </td>
       <td width="50%" valign="top">
         <div style="border-radius: 8px; overflow: hidden; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-          <a href="https://the-roas-factory.vercel.app/">
-            <img src="https://res.cloudinary.com/dy1pkrd52/image/upload/v1741705556/The_Roas_Factory_chshxo.png" width="100%" style="object-fit: contain;" alt="The Roas Factory">
+          <a href="https://lhc-frontend.fly.dev">
+            <img src="https://res.cloudinary.com/dy1pkrd52/image/upload/v1751544916/home-principal-hero_crlvaf.webp" width="100%" alt="LHC Legal & Consulting" />
           </a>
           <div style="padding: 16px; background-color: #f8f9fa;">
             <h3 align="center">
-              <a href="https://the-roas-factory.vercel.app/">The Roas Factory</a>
+              <a href="https://lhc-frontend.fly.dev">LHC Legal & Consulting</a>
             </h3>
-            <p align="center">Web de agencia de marketing digital con React.js, HTML5, CSS3, y Bootstrap. Incluye una estructura optimizada para artículos y blog. <a href="https://github.com/Nelvb/TheRoasFactory">GitHub</a></p>
+            <p align="center">Asesoría jurídica digital con sistema de gestión de artículos para administradores, subida de imágenes, editor propio sin dependencias externas y enfoque SEO técnico.</p>
+            <p align="center"><a href="https://github.com/Nelvb/lhc-legal-consulting">GitHub</a></p>
           </div>
         </div>
       </td>
@@ -142,27 +162,57 @@
     <tr>
       <td width="50%" valign="top">
         <div style="border-radius: 8px; overflow: hidden; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-          <a href="https://github.com/4GeeksAcademy/Nelvb-portfolio">
-            <img src="https://res.cloudinary.com/dy1pkrd52/image/upload/v1741705580/Portfolio_n2ib5p.png" width="100%" style="object-fit: contain;" alt="Portfolio">
+          <a href="https://github.com/Nelvb/Starter_template">
+            <img src="https://res.cloudinary.com/dy1pkrd52/image/upload/v1741715749/Starter_Template_zap4qz.png" width="100%" alt="Starter Template">
           </a>
           <div style="padding: 16px; background-color: #f8f9fa;">
             <h3 align="center">
-              <a href="https://github.com/4GeeksAcademy/Nelvb-portfolio">Portafolio Personal</a>
+              Starter Template
             </h3>
-            <p align="center">Portfolio personal interactivo desarrollado con React.js, Flask, y Anime.js. Incluye validación de emails mediante la API Hunter.io.</p>
+            <p align="center">Template completo y reutilizable para proyectos Full Stack con Next.js (TypeScript), Flask, PostgreSQL, autenticación JWT y Docker.</p>
+            <p align="center"><a href="https://github.com/Nelvb/Starter_template">GitHub</a></p>
           </div>
         </div>
       </td>
       <td width="50%" valign="top">
         <div style="border-radius: 8px; overflow: hidden; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-          <a href="https://github.com/4GeeksAcademy/Proyecto_Final_NJD">
-            <img src="https://res.cloudinary.com/dy1pkrd52/image/upload/v1741705601/Hoy_no_cocino_x6h7w4.png" width="100%" style="object-fit: contain;" alt="Hoy No Cocino">
+          <a href="https://hoynococino.es">
+            <img src="https://res.cloudinary.com/dy1pkrd52/image/upload/v1741705601/Hoy_no_cocino_x6h7w4.png" width="100%" alt="Hoy No Cocino">
           </a>
           <div style="padding: 16px; background-color: #f8f9fa;">
             <h3 align="center">
-              <a href="https://github.com/4GeeksAcademy/Proyecto_Final_NJD">Hoy No Cocino</a>
+              <a href="https://hoynococino.es">Hoy No Cocino</a>
             </h3>
             <p align="center">Plataforma web de reservas para restaurantes, con autenticación JWT, Flask (backend), React.js (frontend) y almacenamiento de imágenes con Cloudinary.</p>
+            <p align="center"><a href="https://github.com/Nelvb/Proyecto-Hoy-No-Cocino">GitHub</a></p>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top">
+        <div style="border-radius: 8px; overflow: hidden; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+          <a href="https://the-roas-factory.vercel.app/">
+            <img src="https://res.cloudinary.com/dy1pkrd52/image/upload/v1741705556/The_Roas_Factory_chshxo.png" width="100%" alt="The Roas Factory">
+          </a>
+          <div style="padding: 16px; background-color: #f8f9fa;">
+            <h3 align="center">
+              <a href="https://the-roas-factory.vercel.app/">The Roas Factory</a>
+            </h3>
+            <p align="center">Web de agencia de marketing digital con React.js, HTML5, CSS3 y Bootstrap. Optimizada para SEO y artículos. <a href="https://github.com/Nelvb/TheRoasFactory">GitHub</a></p>
+          </div>
+        </div>
+      </td>
+      <td width="50%" valign="top">
+        <div style="border-radius: 8px; overflow: hidden; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+          <a href="https://portfolio-nelvbs-projects.vercel.app/">
+            <img src="https://res.cloudinary.com/dy1pkrd52/image/upload/v1741705580/Portfolio_n2ib5p.png" width="100%" alt="Portfolio">
+          </a>
+          <div style="padding: 16px; background-color: #f8f9fa;">
+            <h3 align="center">
+              <a href="https://portfolio-nelvbs-projects.vercel.app/">Portfolio Personal</a>
+            </h3>
+            <p align="center">Portfolio personal interactivo desarrollado con React.js, Flask y Anime.js. Incluye validación de emails. <a href="https://github.com/4GeeksAcademy/Nelvb-portfolio">GitHub</a></p>
           </div>
         </div>
       </td>
@@ -170,17 +220,6 @@
   </table>
 </div>
 
-<br>
-
-## 💼 Proyectos Empresariales en Desarrollo
-
-- **Plataforma de Inversión Inmobiliaria**: Sistema web completo para análisis, gestión y seguimiento de inversiones en el sector inmobiliario. Incorpora herramientas de análisis financiero y visualización de datos para toma de decisiones.
-
-- **Portal Corporativo para Asesoría Legal**: Plataforma empresarial con gestión de servicios legales, sistema de blogs para noticias del sector, perfiles de asesores especializados y gestión integral de clientes.
-
-- **"Te Vendo Tu Coche"**: Innovadora plataforma que permite a los propietarios vender sus vehículos sin preocupaciones. El propietario mantiene el uso del vehículo hasta que se completa la venta, ofreciendo una solución única en el mercado.
-
-<br>
 
 ## 🌱 Actualmente aprendiendo...
 
