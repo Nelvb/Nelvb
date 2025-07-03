@@ -93,7 +93,7 @@
 
 <br>
 
-## Más Herramientas
+## Otras Tecnologías
 
 ### Frontend
 
