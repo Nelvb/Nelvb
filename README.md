@@ -97,6 +97,7 @@
 
 ### Frontend
 
+<img src="https://img.shields.io/badge/-Vue.js_3-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js 3" />
 <img src="https://img.shields.io/badge/-Zustand-3d3d3d?style=for-the-badge&logo=redux&logoColor=white" alt="Zustand" />
 <img src="https://img.shields.io/badge/-React%20Testing%20Library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white" alt="React Testing Library" />
 <img src="https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
@@ -107,6 +108,7 @@
 
 ### Backend
 
+<img src="https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
 <img src="https://img.shields.io/badge/-SQLAlchemy-FCA121?style=for-the-badge&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy" />
 <img src="https://img.shields.io/badge/-Alembic-2E8B57?style=for-the-badge&logo=alembic&logoColor=white" alt="Alembic" />
 <img src="https://img.shields.io/badge/-JWT%20%2B%20Cookies%20HttpOnly-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT + Cookies HttpOnly" />
@@ -119,8 +121,10 @@
 
 <img src="https://img.shields.io/badge/-Docker%20%7C%20Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 <img src="https://img.shields.io/badge/-Git%20%7C%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Git y GitHub" />
-<img src="https://img.shields.io/badge/-Fly.io-3B82F6?style=for-the-badge&logoColor=white" alt="Fly.io" />
+<img src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+<img src="https://img.shields.io/badge/-Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
 <img src="https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+<img src="https://img.shields.io/badge/-Fly.io-3B82F6?style=for-the-badge&logoColor=white" alt="Fly.io" />
 <img src="https://img.shields.io/badge/-.env%20per%20entorno%20(dev%20%7C%20prod)-6B7280?style=for-the-badge&logoColor=white" alt=".env controlado" />
 <img src="https://img.shields.io/badge/-SEO%20t%C3%A9cnico%20avanzado-1DA1F2?style=for-the-badge&logo=google&logoColor=white" alt="SEO técnico" />
 <br>
@@ -149,25 +153,83 @@ Stack implementado con enfoque en rendimiento y escalabilidad.
     <tr>
       <td width="50%" valign="top">
         <div style="border-radius: 8px; overflow: hidden; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-          <a href="https://github.com/Nelvb/Boost-A-Project">
-            <img src="https://res.cloudinary.com/dy1pkrd52/image/upload/v1744624169/Pagina_principal_imagen_presentacion_l6e6th.webp" width="100%" alt="Boost A Project" />
+          <a href="https://portfolio-nelvbs-projects.vercel.app/">
+            <img src="https://res.cloudinary.com/dy1pkrd52/image/upload/f_auto,q_auto,w_1600,c_limit/v1763046884/home-principal_1_auzprh.webp" width="100%" alt="Portfolio" style="margin-bottom: 10px;" />
           </a>
+          <hr style="border: none; border-top: 1px solid #e0e0e0; margin: 0;">
           <div style="padding: 16px; background-color: #f8f9fa;">
-            <h3 align="center">Boost A Project</h3>
-            <p align="center">Plataforma de inversión inmobiliaria con panel profesional, blog, estado global con Zustand y despliegue full-stack en Fly.io.</p>
-            <p align="center"><a href="https://github.com/Nelvb/Boost-A-Project">GitHub</a></p>
+            <h3 align="center"><a href="https://portfolio-nelvbs-projects.vercel.app/">Portfolio Personal</a></h3>
+            <p align="center">Portfolio interactivo con React.js, Flask, Anime.js y validación real de emails. Multilenguaje y 100% responsive.</p>
+            <p align="center"><a href="https://github.com/Nelvb/Portfolio">GitHub</a></p>
           </div>
         </div>
       </td>
       <td width="50%" valign="top">
         <div style="border-radius: 8px; overflow: hidden; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-          <a href="https://lhc-frontend.fly.dev">
-            <img src="https://res.cloudinary.com/dy1pkrd52/image/upload/v1751544916/home-principal-hero_crlvaf.webp" width="100%" alt="LHC Legal & Consulting" />
+          <a href="https://boostaproject.es">
+            <img src="https://res.cloudinary.com/dy1pkrd52/image/upload/f_auto,q_auto,w_1600,c_limit/v1744624169/Pagina_principal_imagen_presentacion_l6e6th.webp" width="100%" alt="Boost A Project" style="margin-bottom: 10px;" />
           </a>
+          <hr style="border: none; border-top: 1px solid #e0e0e0; margin: 0;">
+          <div style="padding: 16px; background-color: #f8f9fa;">
+            <h3 align="center"><a href="https://boostaproject.es">Boost A Project</a></h3>
+            <p align="center">Plataforma de inversión inmobiliaria con panel profesional, blog, estado global con Zustand y despliegue full-stack en Fly.io.</p>
+            <p align="center"><a href="https://github.com/Nelvb/Boost-A-Project">GitHub</a></p>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top">
+        <div style="border-radius: 8px; overflow: hidden; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+          <a href="https://lhc-frontend.fly.dev">
+            <img src="https://res.cloudinary.com/dy1pkrd52/image/upload/f_auto,q_auto,w_1600,c_limit/v1751544916/home-principal-hero_crlvaf.webp" width="100%" alt="LHC Legal & Consulting" style="margin-bottom: 10px;" />
+          </a>
+          <hr style="border: none; border-top: 1px solid #e0e0e0; margin: 0;">
           <div style="padding: 16px; background-color: #f8f9fa;">
             <h3 align="center"><a href="https://lhc-frontend.fly.dev">LHC Legal & Consulting</a></h3>
             <p align="center">Asesoría jurídica digital con sistema de gestión de artículos, imágenes, editor HTML propio y enfoque SEO técnico.</p>
             <p align="center"><a href="https://github.com/Nelvb/lhc-legal-consulting">GitHub</a></p>
+          </div>
+        </div>
+      </td>
+      <td width="50%" valign="top">
+        <div style="border-radius: 8px; overflow: hidden; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+          <a href="https://the-roas-factory.vercel.app/">
+            <img src="https://res.cloudinary.com/dy1pkrd52/image/upload/f_auto,q_auto,w_1600,c_limit/v1741800610/Home_principal_projects_uz1d3u.webp" width="100%" alt="The Roas Factory" style="margin-bottom: 10px;" />
+          </a>
+          <hr style="border: none; border-top: 1px solid #e0e0e0; margin: 0;">
+          <div style="padding: 16px; background-color: #f8f9fa;">
+            <h3 align="center"><a href="https://the-roas-factory.vercel.app/">The Roas Factory</a></h3>
+            <p align="center">Agencia de marketing digital con estructura para blog, React.js, Bootstrap y diseño responsive. Optimizada para SEO.</p>
+            <p align="center"><a href="https://github.com/Nelvb/TheRoasFactory">GitHub</a></p>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top">
+        <div style="border-radius: 8px; overflow: hidden; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+          <a href="https://labandaguinea.com">
+            <img src="https://res.cloudinary.com/dy1pkrd52/image/upload/v1763077184/Home_principal_1_tczmwp.webp" width="100%" alt="Labanda" style="margin-bottom: 10px;" />
+          </a>
+          <hr style="border: none; border-top: 1px solid #e0e0e0; margin: 0;">
+          <div style="padding: 16px; background-color: #f8f9fa;">
+            <h3 align="center"><a href="https://labandaguinea.com">Labanda</a></h3>
+            <p align="center">Sitio corporativo de servicios industriales con soporte trilingüe (francés, inglés, español) y diseño moderno.</p>
+            <p align="center"><a href="https://github.com/Nelvb/labanda-landing">GitHub</a></p>
+          </div>
+        </div>
+      </td>
+      <td width="50%" valign="top">
+        <div style="border-radius: 8px; overflow: hidden; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+          <a href="https://hoynococino.es">
+            <img src="https://res.cloudinary.com/dy1pkrd52/image/upload/v1763076675/home_principal2_1_uxcufa.webp" width="100%" alt="Hoy No Cocino" style="margin-bottom: 10px;" />
+          </a>
+          <hr style="border: none; border-top: 1px solid #e0e0e0; margin: 0;">
+          <div style="padding: 16px; background-color: #f8f9fa;">
+            <h3 align="center"><a href="https://hoynococino.es">Hoy No Cocino</a></h3>
+            <p align="center">Plataforma de reservas para restaurantes. Backend en Flask, frontend en React.js y subida de imágenes con Cloudinary.</p>
+            <p align="center"><a href="https://github.com/Nelvb/HoyNoCocino">GitHub</a></p>
           </div>
         </div>
       </td>
@@ -176,8 +238,9 @@ Stack implementado con enfoque en rendimiento y escalabilidad.
       <td width="50%" valign="top">
         <div style="border-radius: 8px; overflow: hidden; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
           <a href="https://github.com/Nelvb/Starter_template">
-            <img src="https://res.cloudinary.com/dy1pkrd52/image/upload/v1741715749/Starter_Template_zap4qz.png" width="100%" alt="Starter Template">
+            <img src="https://res.cloudinary.com/dy1pkrd52/image/upload/f_auto,q_auto,w_1600,c_limit/v1741815013/home_principal_template_qsvc2m.webp" width="100%" alt="Starter Template" style="margin-bottom: 10px;" />
           </a>
+          <hr style="border: none; border-top: 1px solid #e0e0e0; margin: 0;">
           <div style="padding: 16px; background-color: #f8f9fa;">
             <h3 align="center">Starter Template</h3>
             <p align="center">Template profesional y reutilizable con Next.js, Flask, PostgreSQL, JWT y Docker. Ideal para bases sólidas full-stack.</p>
@@ -187,39 +250,13 @@ Stack implementado con enfoque en rendimiento y escalabilidad.
       </td>
       <td width="50%" valign="top">
         <div style="border-radius: 8px; overflow: hidden; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-          <a href="https://hoynococino.es">
-            <img src="https://res.cloudinary.com/dy1pkrd52/image/upload/v1741705601/Hoy_no_cocino_x6h7w4.png" width="100%" alt="Hoy No Cocino">
+          <a href="https://nexia-frontend-phi.vercel.app/">
+            <img src="https://res.cloudinary.com/dy1pkrd52/image/upload/f_auto,q_auto,w_1600,c_limit/v1763044642/HOME-PRINCIPAL_dfurgm.webp" width="100%" alt="Nexia" style="margin-bottom: 10px;" />
           </a>
+          <hr style="border: none; border-top: 1px solid #e0e0e0; margin: 0;">
           <div style="padding: 16px; background-color: #f8f9fa;">
-            <h3 align="center"><a href="https://hoynococino.es">Hoy No Cocino</a></h3>
-            <p align="center">Plataforma de reservas para restaurantes. Backend en Flask, frontend en React.js y subida de imágenes con Cloudinary.</p>
-            <p align="center"><a href="https://github.com/Nelvb/Proyecto-Hoy-No-Cocino">GitHub</a></p>
-          </div>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" valign="top">
-        <div style="border-radius: 8px; overflow: hidden; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-          <a href="https://the-roas-factory.vercel.app/">
-            <img src="https://res.cloudinary.com/dy1pkrd52/image/upload/v1741705556/The_Roas_Factory_chshxo.png" width="100%" alt="The Roas Factory">
-          </a>
-          <div style="padding: 16px; background-color: #f8f9fa;">
-            <h3 align="center"><a href="https://the-roas-factory.vercel.app/">The Roas Factory</a></h3>
-            <p align="center">Agencia de marketing digital con estructura para blog, React.js, Bootstrap y diseño responsive. Optimizada para SEO.</p>
-            <p align="center"><a href="https://github.com/Nelvb/TheRoasFactory">GitHub</a></p>
-          </div>
-        </div>
-      </td>
-      <td width="50%" valign="top">
-        <div style="border-radius: 8px; overflow: hidden; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-          <a href="https://portfolio-nelvbs-projects.vercel.app/">
-            <img src="https://res.cloudinary.com/dy1pkrd52/image/upload/v1741705580/Portfolio_n2ib5p.png" width="100%" alt="Portfolio">
-          </a>
-          <div style="padding: 16px; background-color: #f8f9fa;">
-            <h3 align="center"><a href="https://portfolio-nelvbs-projects.vercel.app/">Portfolio Personal</a></h3>
-            <p align="center">Portfolio interactivo con React.js, Flask, Anime.js y validación real de emails. Multilenguaje y 100% responsive.</p>
-            <p align="center"><a href="https://github.com/4GeeksAcademy/Nelvb-portfolio">GitHub</a></p>
+            <h3 align="center"><a href="https://nexia-frontend-phi.vercel.app/">Nexia</a></h3>
+            <p align="center">Plataforma SaaS B2B para entrenadores con gestión de clientes, periodización de entrenamientos y dashboards analíticos.</p>
           </div>
         </div>
       </td>
