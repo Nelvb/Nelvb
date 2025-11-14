@@ -30,7 +30,7 @@
 ## <div align="center">💻 Desarrollador Full Stack</div>
 
 <div align="center">
-  <p>Enfocado en el desarrollo de aplicaciones web utilizando tecnologías modernas, con conocimientos en Frontend y Backend. Apasionado por crear soluciones eficientes y escalables, y siempre en búsqueda de mejorar mis habilidades en desarrollo de software.</p>
+  <p>Enfocado en el desarrollo de aplicaciones web utilizando tecnologías modernas, con experiencia en Frontend y Backend. Apasionado por crear soluciones eficientes y escalables, y siempre en búsqueda de mejorar mis habilidades en desarrollo de software.</p>
   
 <br>
 
@@ -133,17 +133,14 @@
 
 LHC Legal & Consulting en producción y Boost A Project completado técnicamente (pendiente de decisiones empresariales):
 
-**Gestión de estado avanzada** con Zustand para aplicaciones complejas sin Redux
-**Testing integral** usando React Testing Library y Jest con cobertura superior al 90%
-**Arquitectura backend modular** en Flask siguiendo principios de Clean Architecture
-**Editor de contenido personalizado** desarrollado sin dependencias externas
-**Gestión de imágenes profesional** con Cloudinary y validación robusta
-**Autenticación empresarial** con JWT, cookies HttpOnly y protección CSRF
-**Contenedores Docker optimizados** para desarrollo y producción
-**Sistema de emails escalable** con Flask-Mail preparado para SendGrid
-**SEO técnico desde la base** con metadatos dinámicos, schema.org y performance
+**Desarrollo full-stack adaptable** seleccionando tecnología según necesidades - Next.js/React/Vue 3 en frontend, Flask + PostgreSQL en backend, Vite/Webpack según caso  
+**Testing profesional integrado** con cobertura >90% usando Vitest, Jest, React Testing Library y Pytest en producción  
+**Gestión de estado escalable** desde Zustand para apps complejas hasta soluciones ligeras con Context API  
+**SEO técnico desde la arquitectura** con metadatos dinámicos, Open Graph, sitemaps, slugs automáticos y performance optimizada  
+**Seguridad empresarial** con JWT + cookies HttpOnly, protección CSRF, validación síncrona frontend-backend y control de roles  
+**Arquitecturas preparadas para escalar** con monorepos pnpm workspaces, código compartido para React Native, componentes documentados, Docker y CI/CD con GitHub Actions  
 
-Stack implementado con enfoque en rendimiento y escalabilidad.
+Stack implementado con enfoque en necesidades empresariales y mantenibilidad a largo plazo.
 
 <br>
 
