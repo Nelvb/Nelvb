@@ -1,6 +1,6 @@
 # <div align="center">👋 ¡Hola, soy Nelson Valero Barcelona!</div>
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/2a7d3c27-fa02-4d37-89df-709c0e472d48" alt="Tablero_full_stack" width="100%">
+  <img src="https://res.cloudinary.com/dy1pkrd52/image/upload/v1763111502/layout-titles_ym3emn.webp" alt="Tablero_full_stack" width="100%">
 </div>
 
 <br>
